@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malikabdullahnaazar
-- 👀 I’m interested in ... Web-Development
-- 🌱 I’m currently learning ...Django,git
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... App-Development
+- 🌱 I’m currently learning ...Flutter,Firebase,Django
+- 💞️ I’m looking iNternship leading job in Flutter ...
 - 📫 How to reach me ...(03175001831)
 
 <!---
