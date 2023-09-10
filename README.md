@@ -1,11 +1,68 @@
-👋 Hey there! Welcome to my GitHub profile! I'm Malik Abdullah Naazar a full-stack developer with a passion for web development and a keen interest in AI. 🚀
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-💼 Currently, I'm working at TMRC as a React JS developer. I love working with React because of its flexibility and the ability to create dynamic and responsive user interfaces. 💻
+###
 
-🤝 I believe in the power of collaboration and community-driven development, which is why I love contributing to open-source projects and sharing my knowledge with others. I'm always looking for new opportunities to collaborate on exciting projects, so feel free to reach out to me! 🤝
+<div align="center">
+  <a href="https://www.linkedin.com/in/malik-abdullah-532a3728b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/malikabdullahnazar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-🧠 In my free time, I enjoy exploring the latest advancements in AI and machine learning. I believe that AI has the potential to revolutionize the way we live and work, and I'm excited to be a part of this rapidly evolving field. 🤖
+###
 
-📫 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me at 03175001831. I'm always open to new opportunities and meeting new people. 🤗
+<br clear="both">
 
-Thanks for stopping by my profile, and I hope you find something interesting here! 😊
+<p align="left">Hello there! 👋 Welcome to my GitHub profile! My name is Malik Abdullah Naazar, and I am a full-stack developer with a passion for web development and a keen interest in AI. 🚀<br><br>Currently, I am working as a React JS developer at TMRC. 💼 React is an excellent tool for creating dynamic and responsive user interfaces, and I love working with it because of its flexibility.<br><br>However, my primary strength lies in Django 🐍, a powerful Python web framework that I use alongside Django Rest Framework 🌐 to develop robust backend systems.<br><br>I believe in the power of collaboration and community-driven development, which is why I love contributing to open-source projects and sharing my knowledge with others. 🤝 I'm always looking for new opportunities to collaborate on exciting projects, so feel free to reach out to me!<br><br>In my free time, I enjoy exploring the latest advancements in AI and machine learning. 🧠 I believe that AI has the potential to revolutionize the way we live and work, and I'm excited to be a part of this rapidly evolving field. 🤖<br><br>If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me at 03175001831. 📫 I'm always open to new opportunities and meeting new people. <br><br>Thanks for stopping by my profile, and I hope you find something interesting here! 😊</p>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
