@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me<br><br>Hello, fellow developers! 👋 My name is Malik Abdullah Naazar, and I am a passionate full-stack developer with a focus on web development and a keen interest in AI. 🚀<br><br>I thrive on the challenge of creating dynamic and responsive user interfaces, and my go-to tool for this is React JS. I love the flexibility that React offers, allowing me to build engaging and interactive web applications. 💻<br><br>However, my true strength lies in Django, a powerful Python web framework. I have honed my skills in Django and have become proficient in developing robust backend systems. I also leverage the Django Rest Framework to create efficient and scalable APIs. 🌐<br><br>Collaboration and community-driven development are values close to my heart. I actively contribute to open-source projects, sharing my knowledge and expertise with others. I believe that by working together, we can create amazing things. 🤝<br><br>When I'm not coding, you can find me exploring the latest advancements in AI and machine learning. The potential of AI to revolutionize our lives fascinates me, and I am excited to be part of this rapidly evolving field. 🤖<br><br>If you have an exciting project or just want to connect, feel free to reach out to me at 03175001831. I am always open to new opportunities and meeting like-minded individuals. Let's collaborate and create something incredible together! 🤗<br><br>Thank you for visiting my profile, and I hope you find something inspiring here! 😊</h3>
 
 ###
 
